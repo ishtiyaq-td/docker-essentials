@@ -60,7 +60,7 @@ docker search
 3. Build the docker image by running:
 
     ```bash
-        docker build . -t nginx-website:latest
+        docker build . -t docker-essentials-demo:latest
     ```
 
     > Note: this assumes the Dockerfile is in the directory you are running this command
