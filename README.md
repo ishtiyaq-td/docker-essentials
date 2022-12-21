@@ -30,6 +30,9 @@ docker rm
 docker search
 ```
 
+> Note: If you want to learn more about the commands listed above, you can use help command to see the details.
+> Use it like: `docker pull --help`
+
 ## Installation guide
 
 ### **Install git**
